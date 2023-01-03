@@ -1,0 +1,30 @@
+[
+  {
+    "Username": "Admin",
+    "Email": "admin@gmail.com",
+    "Password": "S",
+    "Access": "Admin",
+    "UserId": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "Username": "emma",
+    "Email": "junes@gmail.com",
+    "Password": "Aa12345678!",
+    "Access": "User",
+    "UserId": "5c18ec43-aa1a-4871-856c-bc6c15ec92a0"
+  },
+  {
+    "Username": "malte",
+    "Email": "malte@gmail.com",
+    "Password": "Hejhej123!",
+    "Access": "User",
+    "UserId": "5b5f19a8-5581-4fb3-b789-be9120392f2a"
+  },
+  {
+    "Username": "EmmaJunes",
+    "Email": "b\u00E4stitest@b\u00E4rsika.se",
+    "Password": "Snyggt123",
+    "Access": "User",
+    "UserId": "30c47fc4-ff35-45ca-8230-6c8ecc1dda1a"
+  }
+]
